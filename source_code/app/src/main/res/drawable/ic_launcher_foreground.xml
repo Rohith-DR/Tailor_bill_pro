@@ -1,0 +1,32 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Needle -->
+    <path
+        android:fillColor="#FF5722"
+        android:pathData="M54,30L58,34L54,78L50,34Z"
+        android:strokeWidth="1"
+        android:strokeColor="#1A237E" />
+    
+    <!-- Thread Circle -->
+    <path
+        android:fillColor="#1A237E"
+        android:pathData="M54,45m-12,0a12,12 0,1 1,24 0a12,12 0,1 1,-24 0"
+        android:strokeWidth="2"
+        android:strokeColor="#FF5722" />
+    
+    <!-- Receipt Lines -->
+    <path
+        android:fillColor="#1A237E"
+        android:pathData="M35,65h38v2h-38z" />
+    <path
+        android:fillColor="#1A237E"
+        android:pathData="M35,70h38v2h-38z" />
+    <path
+        android:fillColor="#1A237E"
+        android:pathData="M35,75h25v2h-25z" />
+</vector>
