@@ -189,10 +189,10 @@ copies or substantial portions of the Software.
 
 | Type | Link |
 |:---:|:---|
-| 🐛 **Bug Reports** | [Create Issue](https://github.com/Rohith-DR/TailorBillPro/issues) |
-| 💡 **Feature Requests** | [Create Issue](https://github.com/Rohith-DR/TailorBillPro/issues) |
-| 📖 **Documentation** | [Wiki](https://github.com/Rohith-DR/TailorBillPro/wiki) |
-| 💬 **Discussions** | [Discussions](https://github.com/Rohith-DR/TailorBillPro/discussions) |
+| 🐛 **Bug Reports** | [Create Issue](https://github.com/Rohith-DR/Tailor_Bill_Pro/issues) |
+| 💡 **Feature Requests** | [Create Issue](https://github.com/Rohith-DR/Tailor_Bill_Pro/issues) |
+| 📖 **Documentation** | [Wiki](https://github.com/Rohith-DR/Tailor_Bill_Pro/wiki) |
+| 💬 **Discussions** | [Discussions](https://github.com/Rohith-DR/Tailor_Bill_Pro/discussions) |
 
 ## 👨‍💻 Developer
 
@@ -205,9 +205,9 @@ copies or substantial portions of the Software.
   
   <br>
   
-  [![GitHub stars](https://img.shields.io/github/stars/Rohith-DR/TailorBillPro?style=social)](https://github.com/Rohith-DR/TailorBillPro/stargazers)
-  [![GitHub forks](https://img.shields.io/github/forks/Rohith-DR/TailorBillPro?style=social)](https://github.com/Rohith-DR/TailorBillPro/network/members)
-  [![GitHub watchers](https://img.shields.io/github/watchers/Rohith-DR/TailorBillPro?style=social)](https://github.com/Rohith-DR/TailorBillPro/watchers)
+  [![GitHub stars](https://img.shields.io/github/stars/Rohith-DR/TailorBillPro?style=social)](https://github.com/Rohith-DR/Tailor_Bill_Pro/stargazers)
+  [![GitHub forks](https://img.shields.io/github/forks/Rohith-DR/TailorBillPro?style=social)](https://github.com/Rohith-DR/Tailor_Bill_Pro/network/members)
+  [![GitHub watchers](https://img.shields.io/github/watchers/Rohith-DR/TailorBillPro?style=social)](https://github.com/Rohith-DR/Tailor_Bill_Pro/watchers)
 </div>
 
 ---
