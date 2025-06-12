@@ -86,7 +86,7 @@ The app consists of three main screens:
 
 ### Option 2: Build from Source
 ```bash
-git clone https://github.com/Rohith-DR/TailorBillPro.git
+git clone https://github.com/Rohith-DR/Tailor_Bill_Pro.git
 cd TailorBillPro
 ./gradlew assembleDebug
 ```
@@ -147,7 +147,7 @@ We welcome contributions! Here's how you can help:
 ### 🚀 Getting Started
 ```bash
 # Fork the repository
-git clone https://github.com/Rohith-DR/TailorBillPro.git
+git clone https://github.com/Rohith-DR/Tailor_Bill_Pro.git
 
 # Create a feature branch
 git checkout -b feature/AmazingFeature
